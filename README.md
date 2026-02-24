@@ -1,5 +1,5 @@
-## 👋 Hi! I'm Daniel Tirado, 
-# a Software Developer experienced in Python and C#.
+# 👋 Hi! I'm Daniel Tirado, 
+## a Software Developer experienced in Python and C#.
 
 One of my most significant projects (2023) was contributing to a virtual reality research initiative at the Université de Montréal focused on vision recovery. I participated in the development of a VR environment built with Unity and Blender, where I implemented real-time functionality and interface logic in C#. The system integrated a treadmill device to synchronize real-world movement with a virtual environment.
 
