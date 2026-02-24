@@ -1,6 +1,4 @@
-## 👋 About Me
-
-I'm Daniel, a Software Developer experienced in Python and C#.
+## 👋 Hi! I'm Daniel, a Software Developer experienced in Python and C#.
 
 One of my most significant projects (2023) was contributing to a virtual reality research initiative at the Université de Montréal focused on vision recovery. I participated in the development of a VR environment built with Unity and Blender, where I implemented real-time functionality and interface logic in C#. The system integrated a treadmill device to synchronize real-world movement with a virtual environment.
 
@@ -8,7 +6,9 @@ More recently, I have been developing desktop applications using PyQt and SQLite
 
 I am currently expanding my expertise in backend development and software architecture, aiming to design scalable and maintainable systems.
 
+---
 
+## 🔎 What I'm doing now
 
 - 🔭 I’m currently working on a Restaurant Order Management System built with PyQt and SQLite, focusing on clean architecture and scalability.
 
@@ -20,9 +20,12 @@ I am currently expanding my expertise in backend development and software archit
 
 - 💬 Ask me about Python, PyQt, SQLite, Unity, C#, or integrating hardware with software systems.
 
-- 📫 How to reach me: Connect with me on LinkedIn.
+- 📫 How to reach me:
+  - LinkedIn: www.linkedin.com/in/josedanieltiradoramirez  
+  - Email: josedanieltiradoramirez@gmail.com
 
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I’ve worked on a virtual reality research project that mapped real-world movement into a synchronized digital environment.
+
 
